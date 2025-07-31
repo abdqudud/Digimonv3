@@ -1,0 +1,1 @@
+// JS Logic for card scan and binder update
